@@ -30,7 +30,7 @@ in the header, and then call the `format_code('pre','vpaste')` function later
 on to perform syntax highlighting on all the `<pre class="vpaste">` tags.
 
 In this case, slightly more care must be taken to properly escape HTML
-characters scuh as `<` and `>`.
+characters such as `<` and `>`.
 
 <pre class="vpaste" title="ft=c">
 	#include &lt;stdio.h&gt;

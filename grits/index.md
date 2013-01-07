@@ -1,9 +1,9 @@
 Grits
 =====
-Grits is a Virtual Globe library developed along side AWeather, but desigend to
+Grits is a Virtual Globe library developed along side AWeather, but designed to
 be usable by other program as well. It is differentiated from other Virtual
 Globes such as Google Earth, NASA World Wind, and KDE Marble in that it is
-developed primairily as a library that is used by other programs, such as
+developed primarily as a library that is used by other programs, such as
 AWeather, rather than providing it's own user interface.
 
 Grits without any plugins
