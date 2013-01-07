@@ -12,4 +12,4 @@ This website
 The source code that generates this website is available
 
 * [Web site source code](/git/?p=site)
-* [Web site content](/git/?p=site)
+* [Web site content](/git/?p=pages)
