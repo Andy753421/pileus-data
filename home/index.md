@@ -1,6 +1,10 @@
 News
 ====
 
+2013-01-28
+----------
+AWeather and Grits 0.8 released: [download](/aweather/download).
+
 2013-01-06
 ----------
 The [vpaste] and [mkinit] repositories have been converted from subversion to
